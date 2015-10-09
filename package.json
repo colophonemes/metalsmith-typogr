@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-typogr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Use typogr in your Metalsmith build",
   "main": "lib/index.js",
   "scripts": {
