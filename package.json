@@ -22,10 +22,10 @@
     "name": "Sam Deere",
     "email": "dev@colophonemes.org"
   },
-  "license": "GPL",
+  "license": "ISC",
   "dependencies": {
-    "typogr": "^0.6.5",
-    "minimatch": "^2.0.1",
-    "lodash": "^3.4.0"
+    "async": "^1.4.2",
+    "minimatch": "^3.0.0",
+    "typogr": "https://github.com/ekalinin/typogr.js.git"
   }
 }
